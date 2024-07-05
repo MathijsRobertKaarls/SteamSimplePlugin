@@ -16,4 +16,8 @@ Current Functions:
 
 [SteamSimplePlugin.pdf](https://github.com/user-attachments/files/16111477/SteamSimplePlugin.pdf)
 
+CONTACT
+
+Discord: KoningTissa#0512
+
 
