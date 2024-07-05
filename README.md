@@ -1,5 +1,5 @@
 # SteamSimplePlugin
-Plug and Play for Steam
+Unreal Engine Plugin for Steam
 
 License:
 This work is licensed under a Creative Commons Attribution-NoDerivs 4.0 International License.
