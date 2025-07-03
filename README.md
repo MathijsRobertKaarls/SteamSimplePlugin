@@ -18,6 +18,6 @@ Current Functions:
 
 CONTACT
 
-Discord: KoningTissa#0512
+thijskaarlsdev@gmail.com
 
 
